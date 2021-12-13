@@ -1,0 +1,10 @@
+{
+	"world"
+	{
+		"model":"RoomC"
+	}
+	"Recall"
+	{
+		"cost":5
+	}
+}

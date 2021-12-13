@@ -1,0 +1,13 @@
+{
+	"world": {
+		"model": "RoomC"
+	},
+	"Recall": {
+		"cost": 1
+	},
+	"Player": {
+		"maxHealth": 100,
+		"mana": 5,
+		"gold": 5
+	}
+}
